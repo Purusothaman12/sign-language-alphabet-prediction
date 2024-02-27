@@ -16,4 +16,4 @@ Following the training, the trained model is deployed for real-time prediction u
 Results:
 Screenshots of the real-time prediction results can be found in the "results" directory.  
 
-![Screenshot (224)](https://github.com/Purusothaman12/sign-language-alphabet-prediction/assets/136260916/309f7c2d-b226-49c1-8ea2-b4b92eea998a)
+
